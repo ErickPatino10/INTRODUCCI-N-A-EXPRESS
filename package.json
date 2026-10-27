@@ -1,0 +1,22 @@
+{
+  "name": "laboratorio-introduccion-express",
+  "version": "1.0.0",
+  "description": "Laboratorio de introducción a Express.js - API de supermercado",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "json",
+    "laboratorio"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.22.3"
+  },
+  "type": "commonjs"
+}
